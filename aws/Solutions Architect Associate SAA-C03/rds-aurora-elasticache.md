@@ -150,7 +150,7 @@
   - dont need ML experience
   - fraud detectoin, ads targeting, sentiment analysis, product recommendations
 
-## RDS & Aurora Backup and Monitoring
+## RDS and Aurora Backup and Monitoring
 
 - RDS
   - Automated backups
