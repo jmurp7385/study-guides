@@ -74,13 +74,13 @@
 ### Cross Zone Load Balancing
 
 - each load balancer instances distributes evenlty across all registered instances in all AZ
-- ALB
+- Application Load Balancer (ALB)
   - always on (cant be disabled)
   - no charges for inter AZ data
-- NLB
+- Network Load Balancer (NLB)
   - disabled by default
   - pay charges for inter AZ data if enabled
-- CLB
+- Classic Load Balanacer (CLB)
   - disabled by default
   - no charges for inter AZ data if enabled
 
